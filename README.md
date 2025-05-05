@@ -24,3 +24,5 @@ Run logistic regression to model the probability of a whiff based on pitch-to-pi
 ├── README.md
 
 MLB Statcast Data: https://www.kaggle.com/datasets/s903124/mlb-statcast-data
+
+Ethan Hurwitz & Matthew White
