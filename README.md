@@ -11,7 +11,6 @@ Analyze how release point changes affect whiff outcomes.
 
 Run logistic regression to model the probability of a whiff based on pitch-to-pitch release point differences.
 
-.
 ├── data_preprocessing.py         # Loads and cleans pitch-by-pitch Statcast data
 
 ├── analysis_functions.py         # Core functions for RMSE, segmenting, and comparisons
